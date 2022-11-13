@@ -22,4 +22,4 @@
   Anomaly Detection, Explanation and Processing for Time Series with a Focus on Energy Consumption Data
 </p>
 
-![ADEPT](https://github.com/ADEPT-ML/Server/blob/master/adept_screenshot.png)
+![ADEPT](https://user-images.githubusercontent.com/61744142/201544395-ff21af09-a4c1-4afa-bf0f-b3477fb9904d.png)

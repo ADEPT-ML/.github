@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ADEPT-ML/Server">Main Repo</a> | 
-  <a href="blank">Documentation</a> |
+  <a href="https://github.com/ADEPT-ML/Server#contents">Documentation</a> |
   <a href="https://www.tu-dortmund.de/en/university/sustainabilitiy/">Sustainabilitiy at TU Dortmund</a>
 </p>
 
